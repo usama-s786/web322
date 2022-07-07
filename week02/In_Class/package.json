@@ -1,0 +1,14 @@
+{
+  "name": "second_session",
+  "version": "1.0.0",
+  "description": "Week2, session 2 practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usama  Sidat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
